@@ -31,5 +31,5 @@ HOST-SUFFIX,intercom.io,微软服务
 HOST-SUFFIX,launchdarkly.com,微软服务
 HOST-SUFFIX,oaiusercontent.com,微软服务
 HOST-SUFFIX,turn.livekit.cloud,微软服务
-IP-ASN,14061,,微软服务
-IP-ASN,20473,,微软服务
+IP-ASN,14061,微软服务
+IP-ASN,20473,微软服务
