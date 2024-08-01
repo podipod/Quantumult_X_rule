@@ -1,0 +1,16 @@
+按照
+# HOST: 4
+# HOST-KEYWORD: 1
+# HOST-SUFFIX: 3
+# IP-ASN: 0
+# IP-CIDR:0 
+# TOTAL: 8
+统计前缀个数
+HOST,openai-api.arkoselabs.com,GPT故障转移
+HOST,openaicomproductionae4b.blob.core.windows.net,GPT故障转移
+HOST,production-openaicom-storage.azureedge.net,GPT故障转移
+HOST,chat.openai.com.cdn.cloudflare.net,GPT故障转移
+HOST-SUFFIX,openai.com,GPT故障转移
+HOST-SUFFIX,openaiapi-site.azureedge.net,GPT故障转移
+HOST-SUFFIX,openaicom.imgix.net,GPT故障转移
+HOST-KEYWORD,openaicom-api,GPT故障转移

@@ -1,0 +1,53 @@
+# NAME: Copilot
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:18:30
+# HOST: 14
+# HOST-KEYWORD: 0
+# HOST-SUFFIX: 21
+# IP-ASN: 2
+# IP-CIDR: 2
+# TOTAL: 39
+HOST,api.msn.com,微软服务
+HOST,api.statsig.com,微软服务
+HOST,assets.msn.com,微软服务
+HOST,browser-intake-datadoghq.com,微软服务
+HOST,gateway.bingviz.microsoft.net,微软服务
+HOST,gateway.bingviz.microsoftapp.net,微软服务
+HOST,in.appcenter.ms,微软服务
+HOST,location.microsoft.com,微软服务
+HOST,odc.officeapps.live.com,微软服务
+HOST,r.bing.com,微软服务
+HOST,self.events.data.microsoft.com,微软服务
+HOST,services.bingapis.com,微软服务
+HOST,static.cloudflareinsights.com,微软服务
+HOST,sydney.bing.com,微软服务
+HOST,www.bing.com,微软服务
+HOST-SUFFIX,algolia.net,微软服务
+HOST-SUFFIX,api.microsoftapp.net,微软服务
+HOST-SUFFIX,auth0.com,微软服务
+HOST-SUFFIX,bing-shopping.microsoft-falcon.io,微软服务
+HOST-SUFFIX,challenges.cloudflare.com,微软服务
+HOST-SUFFIX,chatgpt.com,微软服务
+HOST-SUFFIX,chatgpt.livekit.cloud,微软服务
+HOST-SUFFIX,client-api.arkoselabs.com,微软服务
+HOST-SUFFIX,edgeservices.bing.com,微软服务
+HOST-SUFFIX,events.statsigapi.net,微软服务
+HOST-SUFFIX,featuregates.org,微软服务
+HOST-SUFFIX,host.livekit.cloud,微软服务
+HOST-SUFFIX,identrust.com,微软服务
+HOST-SUFFIX,intercom.io,微软服务
+HOST-SUFFIX,intercomcdn.com,微软服务
+HOST-SUFFIX,launchdarkly.com,微软服务
+HOST-SUFFIX,oaistatic.com,微软服务
+HOST-SUFFIX,oaiusercontent.com,微软服务
+HOST-SUFFIX,observeit.net,微软服务
+HOST-SUFFIX,segment.io,微软服务
+HOST-SUFFIX,sentry.io,微软服务
+HOST-SUFFIX,stripe.com,微软服务
+HOST-SUFFIX,turn.livekit.cloud,微软服务
+HOST,copilot.microsoft.com,微软服务
+IP-CIDR,24.199.123.28/32,Copilot
+IP-CIDR,64.23.132.171/32,Copilot
+IP-ASN,14061,Copilot
+IP-ASN,20473,Copilot
