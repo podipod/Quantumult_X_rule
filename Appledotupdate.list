@@ -1,0 +1,13 @@
+# 阻止 Apple 固件更新
+HOST,mesu.apple.com,REJECT
+HOST,swscan.apple.com,REJECT
+HOST,swcdn.apple.com,REJECT
+HOST,swdist.apple.com,REJECT
+HOST,swcdn.apple.com,REJECT
+HOST,hwcdn.apple.com,REJECT
+HOST,appldnld.apple.com,REJECT
+HOST,iphone-updates.apple.com,REJECT
+HOST,osxapps.apple.com,REJECT
+HOST,aps3.apple.com,REJECT
+HOST,aps2.apple.com,REJECT
+HOST,aps.apple.com,REJECT
