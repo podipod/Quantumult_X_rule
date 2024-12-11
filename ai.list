@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,oaistatic.com,OpenAI
 DOMAIN-SUFFIX,deepmind.google,OpenAI
 DOMAIN-SUFFIX,notebooklm.google,OpenAI
 DOMAIN-SUFFIX,generativeai.google,OpenAI
-DOMAIN,api.github.com,OpenAI
+DOMAIN-SUFFIX,api.github.com,OpenAI
 DOMAIN-SUFFIX,bard.google.com,OpenAI
 DOMAIN-SUFFIX,gemini.google.com,OpenAI
 DOMAIN-SUFFIX,aistudio.google.com,OpenAI
@@ -27,10 +27,8 @@ DOMAIN-SUFFIX,notebooklm.google.com,OpenAI
 DOMAIN-SUFFIX,geller-pa.googleapis.com,OpenAI
 DOMAIN-SUFFIX,generativelanguage.googleapis.com,OpenAI
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,OpenAI
-DOMAIN,ai.google.dev,OpenAI
-DOMAIN,alkalicore-pa.clients6.google.com,OpenAI
-DOMAIN,alkalimakersuite-pa.clients6.google.com,OpenAI
-DOMAIN,gateway.ai.cloudflare.com,OpenAI
+DOMAIN-SUFFIX,ai.google.dev,OpenAI
+DOMAIN-SUFFIX,gateway.ai.cloudflare.com,OpenAI
 DOMAIN-SUFFIX,browser-intake-datadoghq.com,OpenAI
 DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net,OpenAI
 DOMAIN-SUFFIX,openai-api.arkoselabs.com,OpenAI
