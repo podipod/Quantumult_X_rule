@@ -1,7 +1,7 @@
 host-suffix, podipod.com, 故障自动切换
 host-suffix, egotp.com, 故障自动切换
 host-suffix, igotp.com, 故障自动切换
-host-suffix, pdsm.eu.org, 国内网络
+host-suffix, pdsm.eu.org, 故障自动切换
 host-suffix, ncre.eu.org, 故障自动切换
 host-suffix, gotp.eu.org, 故障自动切换
 host-suffix, naspost.eu.org, 故障自动切换
